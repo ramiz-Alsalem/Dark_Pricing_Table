@@ -155,11 +155,10 @@ ul {
         margin-top: 20px;
     }
     .container .box2 {
-        margin-top: 10px;
+        margin-top: 0;
     }
     .container .box3 {
-        margin-top: 10px;
-        margin-bottom: 10px;
+        margin-bottom: 0;
     }
     .container .box3::before {
         display: flex;
